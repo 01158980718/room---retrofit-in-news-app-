@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/Headlines"
+    android:title="Headlines"
+    android:icon="@drawable/baseline_headlines_24"/>
+    <item
+        android:id="@+id/Favourites"
+        android:title="Favourites"
+        android:icon="@drawable/baseline_favorite_24"/>
+    <item
+        android:id="@+id/Search"
+        android:title="Search"
+        android:icon="@drawable/baseline_search_24"/>
+
+
+</menu>
